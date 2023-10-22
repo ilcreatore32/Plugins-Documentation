@@ -1,0 +1,6 @@
+- [Dynacorp Cargo](/)
+- [Get Started](Plugins/Readme.md)
+- [Listado de Plugins](Plugins/PluginsList.md)
+- [Calculador de Pesos](Plugins/calculador-de-pesos.md)
+- [CFE](Plugins/cfe.md)
+- [Configuración](Plugins/Readme.md)
